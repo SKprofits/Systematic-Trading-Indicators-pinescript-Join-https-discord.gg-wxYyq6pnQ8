@@ -1,3 +1,5 @@
+GIVE US A STAR PLEASE ⭐
+
 TradingView Indicators
 
 JOIN QUANT SPACE -> https://discord.gg/wxYyq6pnQ8
