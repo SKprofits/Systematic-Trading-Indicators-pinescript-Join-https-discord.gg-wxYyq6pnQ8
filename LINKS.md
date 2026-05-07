@@ -10,6 +10,7 @@ A collection of Pine Script indicators I built for educational and technical-ana
 - [Fractal Indicator](https://www.tradingview.com/script/MrprM0Zj-Fractal-indicator/) — Description, Customize to linking
 - [Wick Theory](https://www.tradingview.com/script/6DOh4rK3-Wick-Theory/) — Description, Customize to linking
 - [PJ IFVG](https://www.tradingview.com/script/QACfCvnj-PJ-IFVG/) — Description, Customize to linking
+- [Options Expected Move Viewer](https://drive.google.com/drive/folders/15e4xEd30wiylxyekf_m6MWaFtynkiGEV) - READ THE INSTRUCTIONS TO PROPERLY USE
 
 ## Disclaimer
 
