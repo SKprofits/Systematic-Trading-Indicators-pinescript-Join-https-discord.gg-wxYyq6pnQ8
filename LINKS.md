@@ -2,7 +2,7 @@ TradingView Indicators
 
 A collection of Pine Script indicators I built for educational and technical-analysis research.
 
-## Indicator Links
+## Indicator Links (FREE) $3000+ of paid indicators reverse engineered and made free
 
 - [PB Clean IFVG Model](https://www.tradingview.com/script/KTTDRz4t-PB-Clean-IFVG-Model/) — Description, Customize to linking
 - [Dodgy IFVG Public Model V1](https://www.tradingview.com/script/Pv3dQL2x-Dodgy-IFVG-Public-Model-V1/) — Description, Customize to linking
@@ -11,6 +11,7 @@ A collection of Pine Script indicators I built for educational and technical-ana
 - [Wick Theory](https://www.tradingview.com/script/6DOh4rK3-Wick-Theory/) — Description, Customize to linking
 - [PJ IFVG](https://www.tradingview.com/script/QACfCvnj-PJ-IFVG/) — Description, Customize to linking
 - [Options Expected Move Viewer](https://drive.google.com/drive/folders/15e4xEd30wiylxyekf_m6MWaFtynkiGEV) - READ THE INSTRUCTIONS TO PROPERLY USE
+- [Wicked ICT](https://www.tradingview.com/script/hgVQ4ZJA-WICKED-ICT-NQ-ES/) - READ DESCRIPTION VERY IMPORTANT
 
 ## Disclaimer
 
