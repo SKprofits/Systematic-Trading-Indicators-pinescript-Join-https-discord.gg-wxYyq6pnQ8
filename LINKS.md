@@ -2,7 +2,7 @@ TradingView Indicators
 
 A collection of Pine Script indicators I built for educational and technical-analysis research.
 
-## Indicator Links (FREE) $3000+ of paid indicators reverse engineered and made free
+## Indicator Links (FREE) $5000+ of paid indicators reverse engineered and made free
 
 - [PB Clean IFVG Model](https://www.tradingview.com/script/KTTDRz4t-PB-Clean-IFVG-Model/) — Description, Customize to linking
 - [Dodgy IFVG Public Model V1](https://www.tradingview.com/script/Pv3dQL2x-Dodgy-IFVG-Public-Model-V1/) — Description, Customize to linking
