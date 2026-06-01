@@ -13,6 +13,7 @@ A collection of Pine Script indicators I built for educational and technical-ana
 - [Options Expected Move Viewer](https://drive.google.com/drive/folders/15e4xEd30wiylxyekf_m6MWaFtynkiGEV) - READ THE INSTRUCTIONS TO PROPERLY USE
 - [Wicked ICT](https://www.tradingview.com/script/hgVQ4ZJA-WICKED-ICT-NQ-ES/) - READ DESCRIPTION VERY IMPORTANT
 - [Hunnyu](https://www.tradingview.com/script/AJxgYQUS-Huunyu-SMT-STDV/) - Optimize in indicator settings! Default is good but edit to fit your own trading.
+- [CRT TURTLE SOUP + FVG](https://www.tradingview.com/script/0OsPPMwD-CRT-4H-CISD-MTF-FVG/) -> read description for how it works.
 
 ## Disclaimer
 
