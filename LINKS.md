@@ -14,7 +14,7 @@ A collection of Pine Script indicators I built for educational and technical-ana
 - [Wicked ICT](https://www.tradingview.com/script/hgVQ4ZJA-WICKED-ICT-NQ-ES/) - READ DESCRIPTION VERY IMPORTANT
 - [Hunnyu](https://www.tradingview.com/script/AJxgYQUS-Huunyu-SMT-STDV/) - Optimize in indicator settings! Default is good but edit to fit your own trading.
 - [CRT TURTLE SOUP + FVG](https://www.tradingview.com/script/0OsPPMwD-CRT-4H-CISD-MTF-FVG/) -> read description for how it works.
-- [TRADEAXIS IMITATION - QUANTSPACE DOL] (https://www.tradingview.com/script/CRNDhylz-Quant-Space-DOL-Preview-0-6-1/) - ESTIMATED NOT 100% ACCURATE
+- [TRADEAXIS IMITATION - QUANTSPACE DOL](https://www.tradingview.com/script/CRNDhylz-Quant-Space-DOL-Preview-0-6-1/) - ESTIMATED NOT 100% ACCURATE
 
 ## Disclaimer
 
